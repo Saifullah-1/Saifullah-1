@@ -29,7 +29,7 @@ Apart from coding, I am interested in staying up to date with the latest advance
 
 You can reach out to me via:
 
-- Email: siafmosad@gmail.com 📩
+- E-mail: siafmosad@gmail.com 📩
 - Facebook: [Saifullah Mousaad](https://www.facebook.com/seif.mous3ad/) 👥
 
 I look forward to connecting with fellow developers and exploring exciting opportunities in the world of software development! Let's code together! 🚀💻

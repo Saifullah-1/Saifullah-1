@@ -11,10 +11,10 @@ I am passionate about programming and dedicated to expanding my knowledge in the
 As a CSE student at Alexandria University, I am gaining a solid foundation in computer science principles and software engineering practices. I have been exposed to various programming concepts and problem-solving techniques during my studies. 
 
 ## Skills and Technologies 💡🔧
-
-- Programming languages: Java, C
-- Data structures and algorithms
-
+```
+💻 Programming languages: Java, C
+💡 Data structures and algorithms
+```
 ## Projects and Contributions 🚀🤝
 
 - [Connect Four Game](https://github.com/Saifullah-1/Connect-Four.git) 🎮

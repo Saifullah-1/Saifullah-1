@@ -25,6 +25,9 @@ My objective is to contribute to meaningful projects and continue learning from 
 [![Code::Blocks](https://img.shields.io/badge/-Code%3A%3ABlocks-003366?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org)
 
 ## Projects and Contributions 🚀🤝
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Data-Structure-Labs)](https://github.com/Saifullah-1/github-readme-stats)
+
 <br/>
 <p align="left">
   <a href="https://github.com/Saifullah-1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -43,11 +46,11 @@ Feel free to explore my repositories for more projects and contributions!
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Saifullah-1"><img alt="Saifullah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Saifullah-1"><img alt="Saifullah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/><br/>
-</a>
+
+![Saifullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&layout=compact)
+[![Saifullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M)](https://github.com/Saifullah-1/github-readme-stats)
+
 
 ## Interests and Passions ⚡🌟
 

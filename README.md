@@ -39,11 +39,12 @@ Feel free to explore my repositories for more projects and contributions!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifullah-1&theme=radical&border=7F3FBF&background=0D1117" alt="Saifullah's GitHub streak"/>
   </a>
 </p>
-
-![Saifullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&layout=compact&theme=dark&card_width=400)
-[![Saifullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M&theme=dark)](https://wakatime.com/@Saifullah_M)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
+alt="Saifullah-1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saifullah-1&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="Saifullah-1"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M&theme=dark" alt="Saifullah-1"/>
+</div>
 
 ## Interests and Passions ⚡🌟
 
@@ -61,5 +62,9 @@ You can reach out to me via:
  <a href="https://www.hackerrank.com/saifullahmosaad?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 I look forward to connecting with fellow developers and exploring exciting opportunities in the world of software development! Let's code together! 🚀💻
+<br/><br/>
 
-### [![Visits Badge](https://badges.pufler.dev/visits/Saifullah-1/Saifullah-1)](https://badges.pufler.dev/visits/Saifullah-1/Saifullah-1)
+ ### <p align="center">Visitor counter<p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Saifullah-1/count.svg" />
+</p>

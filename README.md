@@ -26,7 +26,7 @@ My objective is to contribute to meaningful projects and continue learning from 
 
 ## Projects and Contributions 🚀🤝
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Data-Structure-Labs)](https://github.com/Saifullah-1/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Data-Structure-Labs)](https://github.com/Saifullah-1/Data-Structure-Labs)
 
 <br/>
 <p align="left">
@@ -41,7 +41,7 @@ Feel free to explore my repositories for more projects and contributions!
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saifullah-1">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-1&theme=radical">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-1&theme=radical" alt="Saifullah's GitHub Contribution"/>
   </a>
 </p>
@@ -49,7 +49,7 @@ Feel free to explore my repositories for more projects and contributions!
 
 ![Saifullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&layout=compact)
-[![Saifullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M)](https://github.com/Saifullah-1/github-readme-stats)
+[![Saifullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M)](https://wakatime.com/@Saifullah_M)
 
 
 ## Interests and Passions ⚡🌟

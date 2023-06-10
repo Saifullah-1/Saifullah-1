@@ -41,7 +41,7 @@ Feel free to explore my repositories for more projects and contributions!
 </p>
 
 ![Saifullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-1&layout=compact&theme=dark&card_width=445)
 [![Saifullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M&theme=dark)](https://wakatime.com/@Saifullah_M)
 
 

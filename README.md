@@ -62,4 +62,4 @@ You can reach out to me via:
 </p>
 I look forward to connecting with fellow developers and exploring exciting opportunities in the world of software development! Let's code together! 🚀💻
 
-### [![Visits Badge](https://badges.pufler.dev/visits/Saifullah-1/Saifullah-1)](https://Saifullah-1.com)
+### [![Visits Badge](https://badges.pufler.dev/visits/Saifullah-1/Saifullah-1)](https://badges.pufler.dev/visits/Saifullah-1/Saifullah-1)

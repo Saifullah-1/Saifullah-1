@@ -5,8 +5,6 @@
 Hello, I'm Saifullah Mousaad,<br/><br/>
 Welcome to my GitHub profile! 🎉<br/><br/>
 I am a Computer & Systems Engineering student at Alexandria University.<br/><br/>
-I am passionate about programming and dedicated to expanding my knowledge in the field of software development. <br/><br/>
-My objective is to contribute to meaningful projects and continue learning from the vibrant developer community.<br/><br/>
 
 ## Skills and Technologies 💡🔧
 
@@ -49,10 +47,6 @@ alt="Saifullah-1"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M&theme=dark" alt="Saifullah-1"/>
 </div>
 
-## Interests and Passions ⚡🌟
-
-Apart from coding, I am interested in staying up to date with the latest advancements in technology. I enjoy participating in coding challenges, attending tech events, and engaging in discussions with fellow developers. 
-
 ## Contact Information 📧📱
 
 You can reach out to me via:
@@ -61,7 +55,6 @@ You can reach out to me via:
  <a href="https://www.facebook.com/seif.mous3ad" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
  <a href="mailto:siafmosad@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
  <a href="https://codeforces.com/profile/Saifullah1" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" height="40" width="40" /></a>
- <a href="https://leetcode.com/Saifullah_M/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/saifullahmosaad?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 I look forward to connecting with fellow developers and exploring exciting opportunities in the world of software development! Let's code together! 🚀💻

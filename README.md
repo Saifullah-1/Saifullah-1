@@ -15,18 +15,24 @@ My objective is to contribute to meaningful projects and continue learning from 
 [![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-<br/>
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org)
 [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)](https://notepad-plus-plus.org)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org)
 [![Code::Blocks](https://img.shields.io/badge/-Code%3A%3ABlocks-003366?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ## Projects and Contributions 🚀🤝
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Data-Structure-Labs&theme=dark)](https://github.com/Saifullah-1/Data-Structure-Labs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Numerical-Solver&theme=dark)](https://github.com/Saifullah-1/Numerical-Solver.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=DrawingApp&theme=dark)](https://github.com/Saifullah-1/DrawingApp.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Email-Server&theme=dark)](https://github.com/Saifullah-1/Email-Server.git)
 
 <br/>
 <p align="left">

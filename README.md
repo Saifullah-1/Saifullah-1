@@ -44,7 +44,6 @@ Feel free to explore my repositories for more projects and contributions!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
 alt="Saifullah-1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saifullah-1&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="Saifullah-1"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saifullah_M&theme=dark" alt="Saifullah-1"/>
 </div>
 
 ## Contact Information 📧📱
@@ -57,7 +56,6 @@ You can reach out to me via:
  <a href="https://codeforces.com/profile/Saifullah1" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" height="40" width="40" /></a>
  <a href="https://www.hackerrank.com/saifullahmosaad?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
-I look forward to connecting with fellow developers and exploring exciting opportunities in the world of software development! Let's code together! 🚀💻
 <br/><br/>
 
  ### <p align="center">Visitor counter<p>

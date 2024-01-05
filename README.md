@@ -17,12 +17,9 @@ My objective is to contribute to meaningful projects and continue learning from 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org)
-[![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)](https://notepad-plus-plus.org)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org)
 [![Code::Blocks](https://img.shields.io/badge/-Code%3A%3ABlocks-003366?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)

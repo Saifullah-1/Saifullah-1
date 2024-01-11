@@ -8,6 +8,8 @@ Hello, I'm Saifullah Mousaad. Welcome to my GitHub profile! 🎉
 
 I am a Computer & Systems Engineering student at Alexandria University.
 
+<br/>
+
 ## Skills and Technologies 💡🔧
 
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-round&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -27,6 +29,8 @@ I am a Computer & Systems Engineering student at Alexandria University.
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-round&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-round&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
+<br/>
+
 ## Projects and Contributions 🚀🤝
 
 [![Numerical Solver](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Numerical-Solver&theme=dark)](https://github.com/Saifullah-1/Numerical-Solver.git)
@@ -36,6 +40,8 @@ I am a Computer & Systems Engineering student at Alexandria University.
 <br/>
 
 Feel free to explore my repositories for more projects and contributions! [All Repositories](https://github.com/Saifullah-1?tab=repositories)
+
+<br/>
 
 ### Contact Information 📧📱
 
@@ -54,6 +60,8 @@ You can reach out to me via:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saifullah-1&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true" alt="Saifullah-1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saifullah-1&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="Saifullah-1"/>
 </p>
+
+<br/>
 
 ### Visitor Counter 📊
 

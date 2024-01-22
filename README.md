@@ -34,8 +34,10 @@ I am a Computer & Systems Engineering student at Alexandria University.
 ## Projects and Contributions 🚀🤝
 
 [![Numerical Solver](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Numerical-Solver&theme=dark)](https://github.com/Saifullah-1/Numerical-Solver.git)
+[![Producer-Consumer](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Producer-Consumer&theme=dark)](https://github.com/Saifullah-1/Producer-Consumer.git)
 [![Drawing App](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=DrawingApp&theme=dark)](https://github.com/Saifullah-1/DrawingApp.git)
 [![Email Server](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Email-Server&theme=dark)](https://github.com/Saifullah-1/Email-Server.git)
+
 
 <br/>
 

@@ -6,7 +6,7 @@
 
 Hello, I'm Saifullah Mousaad. Welcome to my GitHub profile! 🎉
 
-I am a Computer & Systems Engineering student at Alexandria University.
+<!---I am a Computer & Systems Engineering student at Alexandria University.-->
 
 <br/>
 
@@ -19,7 +19,7 @@ I am a Computer & Systems Engineering student at Alexandria University.
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-round&logo=vue.js&logoColor=white)](https://vuejs.org/)
+<!---[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-round&logo=vue.js&logoColor=white)](https://vuejs.org/)-->
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-round&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-round&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
@@ -31,7 +31,7 @@ I am a Computer & Systems Engineering student at Alexandria University.
 
 <br/>
 
-## Projects and Contributions 🚀🤝
+## Projects and Contributions 🚀
 
 [![Numerical Solver](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Numerical-Solver&theme=dark)](https://github.com/Saifullah-1/Numerical-Solver.git)
 [![Producer-Consumer](https://github-readme-stats.vercel.app/api/pin/?username=Saifullah-1&repo=Producer-Consumer&theme=dark)](https://github.com/Saifullah-1/Producer-Consumer.git)
@@ -51,11 +51,11 @@ You can reach out to me via:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/seif.mous3ad)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siafmosad@gmail.com)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-2EC866?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Saifullah1)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saifullahmosaad?hr_r=1)
+<!---[![Codeforces](https://img.shields.io/badge/-Codeforces-2EC866?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Saifullah1)-->
+<!---[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saifullahmosaad?hr_r=1)-->
 
 <br/>
-
+<!---
 ### GitHub Stats 📈
 
 <p align="center">
@@ -64,7 +64,7 @@ You can reach out to me via:
 </p>
 
 <br/>
-
+-->
 ### Visitor Counter 📊
 
 <p align="center"> 

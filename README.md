@@ -50,7 +50,7 @@ Feel free to explore my repositories for more projects and contributions! [All R
 You can reach out to me via:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/seif.mous3ad)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siafmosad@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saifullah.mousaad@gmail.com)
 <!---[![Codeforces](https://img.shields.io/badge/-Codeforces-2EC866?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Saifullah1)-->
 <!---[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saifullahmosaad?hr_r=1)-->
 

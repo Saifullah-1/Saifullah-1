@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Saifullah-1/Saifullah-1/output/snake.svg" alt="Snake animation" />
+<a href=#><img src="contributions.svg"></a>
 
 ###
 

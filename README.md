@@ -10,6 +10,7 @@
 
 ###
 
+# Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="13" />
@@ -40,12 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif?raw=true"  />
-
-###
-
+# Lets connect
 <div align="left">
   <a href="https://www.linkedin.com/in/saifullahmousaad/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -60,6 +56,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="300" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif?raw=true"  />
+
+###
 
 ###
 

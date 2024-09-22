@@ -1,7 +1,7 @@
 <h3 align="center">
   Welcome to Saifullah's profile!
 </h3>
-<h3 align="center">Computer Engineering student at Faculty of Engineering of Alexandria University.</h3>
+<h3 align="center">Computer Engineering student at Alexandria University.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=saifullah-1&label=Profile%20views&color=0e75b6&style=flat" alt="saifullah-1" /> 

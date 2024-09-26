@@ -15,10 +15,13 @@
   <a href="mailto:saifullah.mousaad@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail"/></a>
 </p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,mysql,js,py,git,github,idea,vscode,linux,postman)](https://skillicons.dev)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,html,css,js,py)](https://skillicons.dev)
 
-<br></br>
+### Tools and Technologies
+[![My Skills](https://skillicons.dev/icons?i=spring,git,github,idea,vscode,linux,postman)](https://skillicons.dev)
+
+<br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifullah-1&show_icons=true&locale=en&layout=compact" alt="saifullah-1" />
 </p>

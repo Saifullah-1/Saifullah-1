@@ -57,5 +57,5 @@
 
 ## Contact
 
-📧 Email: saifal106@gmail.com
+📧 Email: saifaly106@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/saif-ullah-1125483ab
